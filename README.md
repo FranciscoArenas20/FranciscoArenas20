@@ -5,11 +5,11 @@ Ingeniero en Telecomunicaciones, con fuerte interés en el diseño de sistemas, 
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador Full Stack con foco principal en **Backend**
-- 🎓 Ingeniero en Telecomunicaciones
-- 🧠 Interés en arquitectura de software, diseño de APIs y bases de datos
-- 🛠 Experiencia trabajando en equipo bajo **Gitflow**
-- 🎯 Orientado a construir soluciones prácticas, seguras y escalables
+- Desarrollador Full Stack con foco principal en **Backend**
+- Ingeniero en Telecomunicaciones
+- Interés en arquitectura de software, diseño de APIs y bases de datos
+- Experiencia trabajando en equipo bajo **Gitflow**
+- Orientado a construir soluciones prácticas, seguras y escalables
 
 ---
 
@@ -52,8 +52,8 @@ API REST desarrollada como backend para una plataforma e-commerce.
 - APIs REST
 - Swagger
 
-**Frontend (apoyo)**
-- React / CSS
+**Frontend**
+- React / CSS / HTML
 - Diseño responsive
 
 **Herramientas y flujo de trabajo**
